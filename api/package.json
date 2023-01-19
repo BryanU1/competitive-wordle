@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dateformat": "^4.6.3",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.7",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "random-words": "^1.2.0",
+    "socket.io": "^4.5.3",
+    "uniqid": "^5.4.0"
+  },
+  "name": "matchmaking-authentication",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "devstart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanU1/matchmaking-authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanU1/matchmaking-authentication/issues"
+  },
+  "homepage": "https://github.com/BryanU1/matchmaking-authentication#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
