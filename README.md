@@ -22,6 +22,8 @@ This project is a wordle clone with a matchmaking system. Each users are assigne
 + Edit username or display name
 + Display opponent's progress in-game
 ### Screenshots
+#### In-Game
+![In-Game](/screenshots/competitive-wordle.png)
 #### Log In
 ![log-in](/screenshots/log-in.png)
 #### Home
@@ -30,8 +32,6 @@ This project is a wordle clone with a matchmaking system. Each users are assigne
 ![Profile Page](/screenshots/profile.png)
 #### Leaderboard
 ![Leaderboard Page](/screenshots/leaderboard.png)
-#### In-Game
-![In-Game](/screenshots/competitive-wordle.png)
 ## Development
 ### Frameworks
 -   React
