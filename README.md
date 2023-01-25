@@ -15,7 +15,7 @@ This project is a wordle clone with a matchmaking system. Each users are assigne
     - solution: when players refresh, it is considered as if they left and is redirected to the home page
 ### Features
 + User authentication
-+ Skill Based Matchmaking System
++ Skill based matchmaking system
 + Wordle game mechanics
 + Display player's statistics
 + Leaderboard
